@@ -4,3 +4,4 @@ ghcr.io/vforwater/tbr_profile,Pandas Profiling data reports,https://github.com/y
 ghcr.io/vforwater/tbr_clustering,SciKit-Learn Clustering,https://github.com/scikit-learn/scikit-learn,https://scikit-learn.org/stable/modules/clustering.html,
 ghcr.io/vforwater/tbr_moving_dispersion,Moving Window dispersion functions,https://github.com/VForWaTer/tool_moving_dispersion,,https://vforwater.github.io/tool_moving_dispersion
 ghcr.io/catflow/tbr_catlidate,Catflow Validate CLI,https://github.com/CATFLOW/catflow-validate,,
+ghcr.io/vforwater/tbr_fft,Discrete Fast-Fourier Transformations,https://github.com/VForWaTer/tool_fft,,
