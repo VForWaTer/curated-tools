@@ -1,4 +1,4 @@
-# curated-tools
+# Curated tools
 
 Curated list of V-FOR-WaTer tools. The list is available in two formats: 
 
