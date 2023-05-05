@@ -4,3 +4,6 @@ ghcr.io/vforwater/tbr_clustering
 ghcr.io/vforwater/tbr_moving_dispersion
 ghcr.io/catflow/tbr_catlidate
 ghcr.io/vforwater/tbr_fft
+ghcr.io/vforwater/tbr_whitebox
+ghcr.io/vforwater/tbr_cdo
+ghcr.io/vforwater/tbr_catflow
