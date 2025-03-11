@@ -1,5 +1,5 @@
 image,title,repository,documentation,example
-ghcr.io/vforwater/tbr_skgstat,SciKit-GStat geostatistical library,https://github.com/mmaelicke/scikit-gstat,https://mmaelicke.github.io/scikit-gstat,https://vforwater.github.io/tool_geostatistics
+ghcr.io/vforwater/tbr_skgstat,SciKit-GStat geostatistical library,https://github.com/mmaelicke/scikit-gstat,https://mmaelicke.github.io/scikit-gstat,
 ghcr.io/vforwater/tbr_profile,Pandas Profiling data reports,https://github.com/ydataai/pandas-profiling,https://pandas-profiling.ydata.ai,
 ghcr.io/vforwater/tbr_clustering,SciKit-Learn Clustering,https://github.com/scikit-learn/scikit-learn,https://scikit-learn.org/stable/modules/clustering.html,
 ghcr.io/vforwater/tbr_moving_dispersion,Moving Window dispersion functions,https://github.com/VForWaTer/tool_moving_dispersion,,https://vforwater.github.io/tool_moving_dispersion
